@@ -15,14 +15,25 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Product Engineer at Codingmart Technologies <span>2021-present</span></h2>
+                        <p>I joined Codingmart Technologies as a Product Engineer for the role of Frondend Developer. My major part of work includes creating the website for the client using ReactJS, Redux, HTML, CSS and Javascript. I also started learning NodeJS, Express and MongoDB.</p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Working at Infosys <span>2019-present</span></h2>
-                        <p>I joined Infosys as a System Engineer in the Data and UI team.My major part of work includes creating the website for the client.For the data team, I am working on Robotic Process Automation, ETL tools such as SSIS and on MySQL.</p>
+                        <h2>System Engineer at Infosys <span>2019-2021</span></h2>
+                        <p>I joined Infosys as a System Engineer in the Data and UI team.My major part of work includes creating the website for the client.For the data team, I worked on Robotic Process Automation, ETL tools such as SSIS and on MySQL.</p>
                       </div>
                     </div>
                   </article>

@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am an IT graduate from Jaypee University of Information and Technology.I love exploring new technologies and I am currently working on Web development using javascript and React.JS .</p>
+                    <p>I am an IT graduate from Jaypee University of Information and Technology.I love exploring new technologies and I am currently working on Web development using javascript and React.JS . My short term goal is to be a MERN stack developer.</p>
                     
                     </div>
                 </div>
@@ -38,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites using JavaScript,React,HTML,CSS.</p>
+                    <p>I have experience building websites using JavaScript,React,ReduxHTML,CSS.</p>
                 </div>
                 </div>
             </div>
